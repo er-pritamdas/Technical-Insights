@@ -14,6 +14,28 @@ export const personalInfo = {
 
 export const blogs = [
   {
+    id: "daily-ai-prompts",
+    topic: "Daily AI Prompts Collection",
+    subtitle: "A curated list of high-impact prompts for developers and creators, updated daily.",
+    date: "Jan 2026",
+    category: "Prompts",
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    tech: ["AI Agents", "Prompt Engineering", "LLMs", "Productivity"],
+    description: "Unlock the full potential of AI with this growing collection of daily prompts. From code optimization to creative writing, these prompts are designed to enhance your workflow.",
+    featured: true,
+  },
+  {
+    id: "daily-image-prompts",
+    topic: "Daily Image Generation Prompts",
+    subtitle: "Stunning text-to-image prompts for Midjourney, DALL-E, and Stable Diffusion.",
+    date: "Jan 2026",
+    category: "Prompts",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&q=80",
+    tech: ["Midjourney", "DALL-E 3", "Stable Diffusion", "AI Art"],
+    description: "Explore a daily gallery of creative prompts to generate breathtaking AI art. Perfect for designers, artists, and enthusiasts looking for visual inspiration.",
+    featured: true,
+  },
+  {
     id: "scalable-cicd-pipelines",
     topic: "Building Scalable CI/CD Pipelines with Jenkins and Docker",
     subtitle: "A comprehensive guide to automating your deployment workflow",

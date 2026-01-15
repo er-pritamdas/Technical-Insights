@@ -1,12 +1,45 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowLeft, Calendar, Clock, Tag } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock, Tag, Copy, Check } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import { blogs } from '../data';
 import TableOfContents from '../components/TableOfContents';
 
 const blogContent = import.meta.glob('../content/blogs/*.md', { query: '?raw', import: 'default' });
+
+const CodeBlock = ({ children, ...props }) => {
+    const [copied, setCopied] = useState(false);
+
+    const handleCopy = () => {
+        // Extract text from children (which is usually a <code> element)
+        let textToCopy = '';
+        if (children && children.props && children.props.children) {
+            textToCopy = children.props.children;
+        } else if (typeof children === 'string') {
+            textToCopy = children;
+        }
+
+        navigator.clipboard.writeText(textToCopy);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+    };
+
+    return (
+        <div className="relative group mb-4">
+            <button
+                onClick={handleCopy}
+                className="absolute right-2 top-2 p-2 rounded-lg bg-slate-800/50 hover:bg-slate-700 text-slate-400 hover:text-white transition-all opacity-0 group-hover:opacity-100"
+                title="Copy to clipboard"
+            >
+                {copied ? <Check size={16} className="text-green-400" /> : <Copy size={16} />}
+            </button>
+            <pre className="whitespace-pre-wrap break-words bg-slate-900 border border-slate-800 rounded-lg p-4 overflow-x-hidden pt-10" {...props}>
+                {children}
+            </pre>
+        </div>
+    );
+};
 
 const BlogPost = () => {
     const { id } = useParams();
@@ -118,7 +151,11 @@ const BlogPost = () => {
                                         };
                                         const id = getText(props.children).toLowerCase().replace(/[^\w]+/g, '-');
                                         return <h3 id={id} {...props} />;
-                                    }
+                                    },
+                                    pre: CodeBlock,
+                                    code: ({ node, ...props }) => (
+                                        <code className="whitespace-pre-wrap break-words" {...props} />
+                                    )
                                 }}
                             >
                                 {content}
@@ -139,7 +176,7 @@ const BlogPost = () => {
                     </div>
                 </div>
             </div>
-        </article>
+        </article >
     );
 };
 
