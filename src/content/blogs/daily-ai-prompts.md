@@ -90,6 +90,30 @@ Challenge assumptions if something sounds vague or misaligned
 Do not suggest solutions, tactics, or examples until all 5 questions are answered
 ```
 
+### 🏢 Build a Strong Company Culture
+**Context:** Organizational Development & HR
+```markdown
+Act as an experienced organizational culture and people-ops advisor. Create a practical, actionable plan to help [company] build a strong, healthy, and scalable company culture. Your response should include:
+
+A clear strategy to foster a culture of innovation, with initiatives that encourage creative thinking, collaboration, and safe experimentation.
+
+Specific recommendations to promote diversity and inclusion across hiring, training, leadership development, and internal policies.
+
+Initiatives to support employee wellness and work-life balance, including flexible work models, mental and physical health programs, and stress-management resources.
+
+A framework for continuous learning and professional development, covering training programs, mentorship, feedback loops, and access to learning tools.
+
+Guidance on defining and reinforcing core values and ethical standards that guide daily behavior, decision-making, and alignment with the company’s mission.
+
+Team-building ideas and rituals that strengthen relationships, improve communication, and create a sense of belonging.
+
+A recognition and rewards system that consistently acknowledges high performance, impact, and behaviors aligned with company values.
+
+Communication practices that promote transparency, trust, and engagement across all levels of the organization.
+
+Focus on practical steps, examples, and systems that can scale as the company grows.
+```
+
 ---
 
 *Check back tomorrow for more!*

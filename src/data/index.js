@@ -14,6 +14,17 @@ export const personalInfo = {
 
 export const blogs = [
   {
+    id: "daily-finance-vocabulary",
+    topic: "Daily Finance Vocabulary",
+    subtitle: "Learn a new financial term every day with examples.",
+    date: "Jan 2026",
+    category: "Finance",
+    image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+    tech: ["Finance", "Economics", "Vocabulary"],
+    description: "Expand your financial literacy with our daily word and meaning collection, complete with real-world examples.",
+    featured: true,
+  },
+  {
     id: "daily-ai-prompts",
     topic: "Daily AI Prompts Collection",
     subtitle: "A curated list of high-impact prompts for developers and creators, updated daily.",

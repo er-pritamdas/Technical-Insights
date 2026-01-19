@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowLeft, Calendar, Clock, Tag, Copy, Check } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock, Tag, Copy, Check, ChevronDown } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import { blogs } from '../data';
 import TableOfContents from '../components/TableOfContents';
@@ -155,6 +155,16 @@ const BlogPost = () => {
                                     pre: CodeBlock,
                                     code: ({ node, ...props }) => (
                                         <code className="whitespace-pre-wrap break-words" {...props} />
+                                    ),
+                                    blockquote: ({ node, ...props }) => (
+                                        <details className="bg-slate-900 border border-slate-800 rounded-lg p-4 my-4 group">
+                                            <summary className="font-bold text-cyan-400 cursor-pointer list-none flex items-center gap-2">
+                                                Example <ChevronDown className="w-4 h-4 transition-transform group-open:rotate-180" />
+                                            </summary>
+                                            <div className="mt-2 text-slate-300 italic">
+                                                {props.children}
+                                            </div>
+                                        </details>
                                     )
                                 }}
                             >
