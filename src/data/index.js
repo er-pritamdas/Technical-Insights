@@ -14,6 +14,17 @@ export const personalInfo = {
 
 export const blogs = [
   {
+    id: "trending-ai-tools",
+    topic: "Trending AI Tools",
+    subtitle: "A curated list of high-impact prompts for developers and creators, updated daily.",
+    date: "Jan 2026",
+    category: "Prompts",
+    image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
+    tech: ["AI Agents", "Prompt Engineering", "LLMs", "Productivity"],
+    description: "Unlock the full potential of AI with this growing collection of daily prompts. From code optimization to creative writing, these prompts are designed to enhance your workflow.",
+    featured: true,
+  },
+  {
     id: "daily-finance-vocabulary",
     topic: "Daily Finance Vocabulary",
     subtitle: "Learn a new financial term every day with examples.",

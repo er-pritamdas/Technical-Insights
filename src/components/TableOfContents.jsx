@@ -46,7 +46,7 @@ const TableOfContents = ({ content, className = '' }) => {
         <motion.div
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
-            className={`hidden xl:block w-64 ${className}`}
+            className={`hidden xl:block ${className}`}
         >
             <div className="bg-slate-900/50 backdrop-blur-sm border border-slate-800 rounded-xl p-6 max-h-[calc(100vh-8rem)] overflow-y-auto scrollbar-thin">
                 <div className="flex items-center gap-2 text-cyan-400 mb-4 font-bold">

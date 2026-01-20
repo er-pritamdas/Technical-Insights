@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Calendar, Clock, Tag, Copy, Check, ChevronDown } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { blogs } from '../data';
 import TableOfContents from '../components/TableOfContents';
 
@@ -115,7 +116,7 @@ const BlogPost = () => {
             <div className="max-w-7xl mx-auto px-6">
                 <div className="flex gap-12 relative items-start">
                     {/* Sticky Table of Contents Sidebar */}
-                    <div className="hidden xl:block sticky top-32 h-fit shrink-0">
+                    <div className="hidden xl:block sticky top-32 h-fit shrink-0 w-80">
                         <TableOfContents content={content} />
                     </div>
 
@@ -123,6 +124,7 @@ const BlogPost = () => {
                     <div className="flex-1 max-w-3xl">
                         <div className="prose prose-invert prose-lg max-w-none prose-headings:text-white prose-p:text-slate-300 prose-a:text-cyan-400 hover:prose-a:text-cyan-300 prose-strong:text-white prose-code:text-cyan-300 prose-pre:bg-slate-900 prose-pre:border prose-pre:border-slate-800">
                             <ReactMarkdown
+                                remarkPlugins={[remarkGfm]}
                                 components={{
                                     h2: ({ node, ...props }) => {
                                         const getText = (children) => {
