@@ -1,9 +1,14 @@
-# Daily AI Prompts Collection
+# AI Prompts Collection
 
 Welcome to my daily collection of AI prompts! Here I document useful prompts for coding, writing, and productivity.
 
 ### 🚀 Learn anything faster
+
 **Context:** Accelerated Learning & Study Planning
+
+<details>
+<summary>Click to view prompt</summary>
+
 ```markdown
 [SUBJECT]=Topic or skill to learn
 [CURRENT_LEVEL]=Starting knowledge level (beginner/intermediate/advanced)
@@ -12,20 +17,23 @@ Welcome to my daily collection of AI prompts! Here I document useful prompts for
 [GOAL]=Specific learning objective or target skill level
 
 Step 1: Knowledge Assessment
+
 1. Break down [SUBJECT] into core components
 2. Evaluate complexity levels of each component
 3. Map prerequisites and dependencies
 4. Identify foundational concepts
-Output detailed skill tree and learning hierarchy
+   Output detailed skill tree and learning hierarchy
 
 ~ Step 2: Learning Path Design
+
 1. Create progression milestones based on [CURRENT_LEVEL]
 2. Structure topics in optimal learning sequence
 3. Estimate time requirements per topic
 4. Align with [TIME_AVAILABLE] constraints
-Output structured learning roadmap with timeframes
+   Output structured learning roadmap with timeframes
 
 ~ Step 3: Resource Curation
+
 1. Identify learning materials matching [LEARNING_STYLE]:
    - Video courses
    - Books/articles
@@ -33,32 +41,42 @@ Output structured learning roadmap with timeframes
    - Practice projects
 2. Rank resources by effectiveness
 3. Create resource playlist
-Output comprehensive resource list with priority order
+   Output comprehensive resource list with priority order
 
 ~ Step 4: Practice Framework
+
 1. Design exercises for each topic
 2. Create real-world application scenarios
 3. Develop progress checkpoints
 4. Structure review intervals
-Output practice plan with spaced repetition schedule
+   Output practice plan with spaced repetition schedule
 
 ~ Step 5: Progress Tracking System
+
 1. Define measurable progress indicators
 2. Create assessment criteria
 3. Design feedback loops
 4. Establish milestone completion metrics
-Output progress tracking template and benchmarks
+   Output progress tracking template and benchmarks
 
 ~ Step 6: Study Schedule Generation
+
 1. Break down learning into daily/weekly tasks
 2. Incorporate rest and review periods
 3. Add checkpoint assessments
 4. Balance theory and practice
-Output detailed study schedule aligned with [TIME_AVAILABLE]
+   Output detailed study schedule aligned with [TIME_AVAILABLE]
 ```
 
+</details>
+
 ### 📝 The Reverse Brief Prompt
+
 **Context:** Strategic Problem Definition & Clarity
+
+<details>
+<summary>Click to view prompt</summary>
+
 ```markdown
 I want to achieve [describe the outcome you think you want].
 Do not give me strategies, steps, frameworks, or advice yet.
@@ -88,8 +106,15 @@ Challenge assumptions if something sounds vague or misaligned
 Do not suggest solutions, tactics, or examples until all 5 questions are answered
 ```
 
+</details>
+
 ### 🏢 Build a Strong Company Culture
+
 **Context:** Organizational Development & HR
+
+<details>
+<summary>Click to view prompt</summary>
+
 ```markdown
 Act as an experienced organizational culture and people-ops advisor. Create a practical, actionable plan to help [company] build a strong, healthy, and scalable company culture. Your response should include:
 
@@ -112,12 +137,19 @@ Communication practices that promote transparency, trust, and engagement across 
 Focus on practical steps, examples, and systems that can scale as the company grows.
 ```
 
+</details>
+
 ### 📖 Read long articles faster
+
 **Context:** Reading Assistant & Summarization
+
+<details>
+<summary>Click to view prompt</summary>
+
 ```markdown
 You are a reading assistant. The user will provide you with an article to read. Please thoroughly read the article and generate a guide and a simplified, easy-to-read version of the article with the following requirements:
 
- -- Your output:
+-- Your output:
 
 Mind Map: First, generate a mind map for the entire guide.
 
@@ -125,7 +157,7 @@ Summary: Next, provide a summary of the entire text, limited to 400 words.
 
 Simplified Article: Then, present your rewritten, simplified, and easy-to-read version of the article.
 
- -- Requirements for Rewriting:
+-- Requirements for Rewriting:
 
 Word Count: Compress the word count to half of the original, and ensure it does not exceed 3,000 words.
 
@@ -136,6 +168,8 @@ Formatting: Format the output to ensure a visually appealing layout and ease of 
 Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual elements in appropriate places to enhance readability.
 ```
 
+</details>
+
 ---
 
-*Check back tomorrow for more!*
+_Check back tomorrow for more!_

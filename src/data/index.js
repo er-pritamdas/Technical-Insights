@@ -26,7 +26,7 @@ export const blogs = [
   },
   {
     id: "daily-finance-vocabulary",
-    topic: "Daily Finance Vocabulary",
+    topic: "Finance Vocabulary",
     subtitle: "Learn a new financial term every day with examples.",
     date: "Jan 2026",
     category: "Finance",
@@ -37,7 +37,7 @@ export const blogs = [
   },
   {
     id: "daily-ai-prompts",
-    topic: "Daily AI Prompts Collection",
+    topic: "AI Prompts Collection",
     subtitle: "A curated list of high-impact prompts for developers and creators, updated daily.",
     date: "Jan 2026",
     category: "Prompts",
@@ -48,7 +48,7 @@ export const blogs = [
   },
   {
     id: "daily-image-prompts",
-    topic: "Daily Image Generation Prompts",
+    topic: "Image Generation Prompts",
     subtitle: "Stunning text-to-image prompts for Midjourney, DALL-E, and Stable Diffusion.",
     date: "Jan 2026",
     category: "Prompts",

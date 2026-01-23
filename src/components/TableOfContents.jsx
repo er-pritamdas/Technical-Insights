@@ -60,7 +60,7 @@ const TableOfContents = ({ content, className = '' }) => {
                             href={`#${id}`}
                             className={`block text-sm py-1.5 transition-all border-l-2 pl-4 ${activeId === id
                                 ? 'border-cyan-400 text-cyan-400 font-medium bg-cyan-950/20 rounded-r-lg'
-                                : 'border-transparent text-slate-500 hover:text-slate-300 hover:border-slate-700'
+                                : 'border-slate-800 text-slate-500 hover:text-slate-300 hover:border-slate-700'
                                 } ${level === 3 ? 'ml-4' : ''}`}
                             onClick={(e) => {
                                 e.preventDefault();
