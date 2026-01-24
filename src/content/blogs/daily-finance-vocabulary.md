@@ -4,6 +4,14 @@ Everyday related to finance.
 
 ## Word of the Day
 
+### Floating Interest Rate
+
+It is an interest rate that changes according to economic conditions.
+
+> It can apply to loans, credit cards, and some investment instruments like bonds.
+> The rate moves up or down based on a benchmark, such as RBI’s repo rate.
+> Example: When the benchmark rate falls, interest rates might fall. Similarly, when the rate rises, interest rates may go up.
+
 ### Stagflation
 
 It is when there is slow growth, high unemployment, and inflation at the same time.
