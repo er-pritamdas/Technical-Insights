@@ -5,6 +5,7 @@ Welcome to my daily collection of AI prompts! Here I document useful prompts for
 ### 🚀 Learn anything faster
 
 **Context:** Accelerated Learning & Study Planning
+**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -73,6 +74,7 @@ Step 1: Knowledge Assessment
 ### 📝 The Reverse Brief Prompt
 
 **Context:** Strategic Problem Definition & Clarity
+**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -111,6 +113,7 @@ Do not suggest solutions, tactics, or examples until all 5 questions are answere
 ### 🏢 Build a Strong Company Culture
 
 **Context:** Organizational Development & HR
+**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -142,6 +145,7 @@ Focus on practical steps, examples, and systems that can scale as the company gr
 ### 📖 Read long articles faster
 
 **Context:** Reading Assistant & Summarization
+**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -166,6 +170,36 @@ Author’s Tone: Simulate the original author's tone.
 Formatting: Format the output to ensure a visually appealing layout and ease of reading.
 
 Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual elements in appropriate places to enhance readability.
+```
+
+</details>
+
+### 📊 High-End Consulting Slide Generation
+
+**Context:** Analyze Global EV market
+**Try it on:** <a href="https://www.kimi.com/en/slides" target="_blank"><img src="/AI-Icons/kimi.png" alt="Kimi AI" title="Kimi AI" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+
+<details>
+<summary>Click to view prompt</summary>
+
+```markdown
+Analyze Global EV market opportunities.
+
+Requirement:
+A professional, high-density consulting presentation slide, designed in the style of a top-tier strategy firm (McKinsey/BCG) blended with high-end editorial aesthetics.
+
+Core Content & Layout:
+
+1. Rich Data Visualization: The slide is populated with complex, precise charts (stacked bar charts, waterfall charts, or line graphs) and detailed data tables with rows and columns.
+2. Structured Frameworks: Includes strategic diagrams or 2x2 matrices constructed with thin, clean lines.
+3. High Information Density: The layout is sophisticated and multi-column, mimicking an actual business analysis deck, not just an empty cover page.
+
+Visual Style:
+
+1. Aesthetic: Tech-minimalist but information-heavy. Clean, sharp, and authoritative.
+2. Typography: Serif fonts (like Times New Roman) for the main headlines to give a premium financial report feel; clean Sans-serif for chart labels and data numbers.
+3. Color Palette: Clean white background. Text is sharp black. Charts and graphical accents use Deep Royal Blue and distinct shades of grey for data hierarchy.
+4. Graphics: Use fine hairline borders for tables and precise vector lines for graphs.
 ```
 
 </details>
