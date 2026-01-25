@@ -2,6 +2,8 @@
 
 Welcome to my daily collection of AI prompts! Here I document useful prompts for coding, writing, and productivity.
 
+---
+
 ### 🚀 Learn anything faster
 
 **Context:** Accelerated Learning & Study Planning
@@ -71,6 +73,8 @@ Step 1: Knowledge Assessment
 
 </details>
 
+---
+
 ### 📝 The Reverse Brief Prompt
 
 **Context:** Strategic Problem Definition & Clarity
@@ -110,6 +114,8 @@ Do not suggest solutions, tactics, or examples until all 5 questions are answere
 
 </details>
 
+---
+
 ### 🏢 Build a Strong Company Culture
 
 **Context:** Organizational Development & HR
@@ -142,6 +148,8 @@ Focus on practical steps, examples, and systems that can scale as the company gr
 
 </details>
 
+---
+
 ### 📖 Read long articles faster
 
 **Context:** Reading Assistant & Summarization
@@ -173,6 +181,8 @@ Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual element
 ```
 
 </details>
+
+---
 
 ### 📊 High-End Consulting Slide Generation
 

@@ -28,18 +28,21 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-6">
                 <div className="flex items-center justify-between h-20">
                     {/* Logo */}
-                    <Link to="/" className="text-2xl font-bold text-white relative group tracking-tight">
-                        <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-                            PritamDas._
+                    <Link to="/" className="flex items-center gap-2 group">
+                        <div className="relative">
+                            <img src="/logo.png" alt="Technical Insights" className="h-10 w-10 object-contain hover:scale-105 transition-transform" />
+                            <div className="absolute inset-0 bg-cyan-500/20 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity" />
+                        </div>
+                        <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 hidden sm:block">
+                            Technical Insights
                         </span>
-                        <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-cyan-400 to-blue-500 transition-all group-hover:w-full" />
                     </Link>
 
                     {/* Desktop Navigation */}
                     <div className="hidden md:flex items-center space-x-8">
-                        <Link to="/" className="text-sm font-medium text-slate-300 hover:text-cyan-400 transition-colors">
-                            Home
-                        </Link>
+                        <a href="https://portfolio-puce-phi-a8189zd8da.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-slate-300 hover:text-cyan-400 transition-colors">
+                            Portfolio
+                        </a>
                         <div className="h-4 w-px bg-slate-800" />
                         <div className="flex items-center gap-4">
                             <a href={personalInfo.github} target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
@@ -74,9 +77,9 @@ const Navbar = () => {
                         className="md:hidden bg-slate-950/95 backdrop-blur-xl border-b border-white/10 overflow-hidden"
                     >
                         <div className="px-6 py-8 space-y-6">
-                            <Link to="/" className="block text-lg font-medium text-slate-300 hover:text-cyan-400">
-                                Home
-                            </Link>
+                            <a href="https://portfolio-puce-phi-a8189zd8da.vercel.app/" target="_blank" rel="noopener noreferrer" className="block text-lg font-medium text-slate-300 hover:text-cyan-400">
+                                Portfolio
+                            </a>
                             <div className="flex space-x-6 pt-6 border-t border-white/10">
                                 <a href={personalInfo.github} target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white">
                                     <Github size={24} />
