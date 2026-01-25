@@ -7,7 +7,7 @@ Welcome to my daily collection of AI prompts! Here I document useful prompts for
 ### 🚀 Learn anything faster
 
 **Context:** Accelerated Learning & Study Planning
-**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -78,7 +78,7 @@ Step 1: Knowledge Assessment
 ### 📝 The Reverse Brief Prompt
 
 **Context:** Strategic Problem Definition & Clarity
-**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -119,7 +119,7 @@ Do not suggest solutions, tactics, or examples until all 5 questions are answere
 ### 🏢 Build a Strong Company Culture
 
 **Context:** Organizational Development & HR
-**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -153,7 +153,7 @@ Focus on practical steps, examples, and systems that can scale as the company gr
 ### 📖 Read long articles faster
 
 **Context:** Reading Assistant & Summarization
-**Try it on:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> | <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
@@ -187,7 +187,7 @@ Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual element
 ### 📊 High-End Consulting Slide Generation
 
 **Context:** Analyze Global EV market
-**Try it on:** <a href="https://www.kimi.com/en/slides" target="_blank"><img src="/AI-Icons/kimi.png" alt="Kimi AI" title="Kimi AI" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+**:** <a href="https://www.kimi.com/en/slides" target="_blank"><img src="/AI-Icons/kimi.png" alt="Kimi AI" title="Kimi AI" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
 
 <details>
 <summary>Click to view prompt</summary>
