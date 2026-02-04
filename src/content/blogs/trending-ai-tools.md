@@ -13,14 +13,15 @@
 
 ### Multimedia Content Creation
 
-| Tool Name                             | Category         | Description                                              |
-| :------------------------------------ | :--------------- | :------------------------------------------------------- |
-| 🖼️ [X-Pilot](https://app.x-pilot.ai/) | Video Generation | Create educational videos with AI.                       |
-| 🖼️ [Kutt](https://kutt.ai/)           | Video Generation | Create stunning videos with just a few words.            |
-| 📽️ [Fizzly](https://www.fizzly.ai/)   | Media Generation | Generate images, videos & train custom AI characters.    |
-| 📃 [Playmix](https://playmix.ai/)     | Game Generation  | Generate games, 2D/3D art & animated sprites in seconds. |
-| ️ [ElevenLabs](https://elevenlabs.io/) | Voice Generation | Generate realistic voices with AI.                       |
-| 🔎 [Inworld](https://inworld.ai/)     | Voice Generation | Real-time AI voice with low latency & high expressivity. |
+| Tool Name                                      | Category         | Description                                              |
+| :--------------------------------------------- | :--------------- | :------------------------------------------------------- |
+| 🖼️ [X-Pilot](https://app.x-pilot.ai/)          | Video Generation | Create educational videos with AI.                       |
+| 🖼️ [Kutt](https://kutt.ai/)                    | Video Generation | Create stunning videos with just a few words.            |
+| 📽️ [Fizzly](https://www.fizzly.ai/)            | Media Generation | Generate images, videos & train custom AI characters.    |
+| 📃 [Playmix](https://playmix.ai/)              | Game Generation  | Generate games, 2D/3D art & animated sprites in seconds. |
+| ️ [ElevenLabs](https://elevenlabs.io/)          | Voice Generation | Generate realistic voices with AI.                       |
+| 🔎 [Inworld](https://inworld.ai/)              | Voice Generation | Real-time AI voice with low latency & high expressivity. |
+| 🧞 [Project Genie](https://project-genie.net/) | 3D Generation    | Create photorealistic, interactive 3D worlds from text.  |
 
 ### Business & Productivity
 
