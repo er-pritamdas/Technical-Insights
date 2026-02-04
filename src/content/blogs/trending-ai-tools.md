@@ -2,14 +2,14 @@
 
 ### Building & Development
 
-| Tool Name                                       | Category           | Description                                             |
-| :---------------------------------------------- | :----------------- | :------------------------------------------------------ |
-| 🤖 [Vellum](https://www.vellum.ai/)             | AI Agents          | Build AI agents in plain English to automate tasks.     |
-| 📝 [Prompt List](https://sub-agents.directory/) | Prompt Engineering | 200+ Claude Code sub-agent prompts for vibe coding.     |
-| 🚀 [Noodle Seed](https://noodleseed.com/)       | ChatGPT Apps       | Create ChatGPT Apps in minutes & reach 800M+ users.     |
-| 📱 [Bookmarkify](https://www.bookmarkify.io/)   | Design & Collab    | Save, organize & collaborate on web design inspiration. |
-| 🤖 [co.dev](https://www.co.dev/)                | Full-stack Apps    | Turn your ideas into full-stack apps with AI.           |
-| 📃 [Omakase](https://www.omakase.ai/)           | E-commerce Agents  | Turn your website into a shopping AI agent with a URL.  |
+| Tool Name                                       | Category           | Description                                                                                                  |
+| :---------------------------------------------- | :----------------- | :----------------------------------------------------------------------------------------------------------- |
+| 🤖 [Vellum](https://www.vellum.ai/)             | AI Agents          | Build AI agents in plain English to automate tasks.                                                          |
+| 📝 [Prompt List](https://sub-agents.directory/) | Prompt Engineering | 200+ Claude Code sub-agent prompts for vibe coding.                                                          |
+| 🚀 [Noodle Seed](https://noodleseed.com/)       | ChatGPT Apps       | Create a ChatGPT App in minutes & get discovered by millions. Ranked #1 on Product Hunt (plans start at $0). |
+| 📱 [Bookmarkify](https://www.bookmarkify.io/)   | Design & Collab    | Save, organize & collaborate on web design inspiration.                                                      |
+| 🤖 [co.dev](https://www.co.dev/)                | Full-stack Apps    | Turn your ideas into full-stack apps with AI.                                                                |
+| 📃 [Omakase](https://www.omakase.ai/)           | E-commerce Agents  | Turn your website into a shopping AI agent with a URL.                                                       |
 
 ### Multimedia Content Creation
 
