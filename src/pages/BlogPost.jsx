@@ -7,6 +7,9 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { blogs } from '../data';
 import TableOfContents from '../components/TableOfContents';
+import TrendingTools from '../components/TrendingTools';
+import AIPromptCards from '../components/AIPromptCards';
+import ImagePromptCards from '../components/ImagePromptCards';
 
 const blogContent = import.meta.glob('../content/blogs/*.md', { query: '?raw', import: 'default' });
 
@@ -117,12 +120,21 @@ const BlogPost = () => {
             <div className="max-w-7xl mx-auto px-6">
                 <div className="flex gap-12 relative items-start">
                     {/* Sticky Table of Contents Sidebar */}
-                    <div className="hidden xl:block sticky top-32 h-fit shrink-0 w-80">
-                        <TableOfContents content={content} />
-                    </div>
+                    {!['trending-ai-tools', 'daily-ai-prompts', 'daily-image-prompts'].includes(id) && (
+                        <div className="hidden xl:block sticky top-32 h-fit shrink-0 w-80">
+                            <TableOfContents content={content} />
+                        </div>
+                    )}
 
                     {/* Main Content */}
-                    <div className="flex-1 max-w-3xl">
+                    <div className={`flex-1 ${['trending-ai-tools', 'daily-ai-prompts', 'daily-image-prompts'].includes(id) ? 'max-w-none' : 'max-w-3xl'}`}>
+                        {id === 'trending-ai-tools' ? (
+                            <TrendingTools />
+                        ) : id === 'daily-ai-prompts' ? (
+                            <AIPromptCards />
+                        ) : id === 'daily-image-prompts' ? (
+                            <ImagePromptCards />
+                        ) : (
                         <div className="prose prose-invert prose-lg max-w-none prose-headings:text-white prose-p:text-slate-300 prose-a:text-cyan-400 hover:prose-a:text-cyan-300 prose-strong:text-white prose-code:text-cyan-300 prose-pre:bg-slate-900 prose-pre:border prose-pre:border-slate-800">
                             <ReactMarkdown
                                 remarkPlugins={[remarkGfm]}
@@ -175,6 +187,7 @@ const BlogPost = () => {
                                 {content}
                             </ReactMarkdown>
                         </div>
+                        )}
 
                         {/* Tags */}
                         <div className="mt-12 pt-8 border-t border-slate-800">
