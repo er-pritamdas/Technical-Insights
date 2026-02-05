@@ -264,4 +264,37 @@ Optimize for resume tailoring and interview prep
 
 ---
 
+</details>
+
+---
+
+### ✍️ Improve Clarity and Readability
+
+**Context:** Editing & Refinement
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+
+<details>
+<summary>Click to view prompt</summary>
+
+```markdown
+You are an expert editor specializing in clear, concise, and easy-to-read writing.
+
+Your task is to edit the text below to maximize clarity, logical flow, and readability while preserving the original meaning and intent.
+
+Guidelines:
+Remove unnecessary words, filler, and repetition
+Tighten sentences without oversimplifying ideas
+Improve logical flow and transitions between sentences
+Break up long or complex sentences where needed
+Replace vague or confusing phrasing with clear, concrete language
+Maintain the original tone and voice
+Do not add new ideas or opinions
+
+[paste text here]
+```
+
+</details>
+
+---
+
 _Check back tomorrow for more!_

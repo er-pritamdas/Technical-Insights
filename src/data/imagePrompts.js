@@ -8,6 +8,14 @@ export const imagePromptsData = [
     ]
   },
   {
+    title: "NanoBanana Prompt - Instagram Pop Out Effect",
+    category: "Photography & Image Enhancement",
+    image: "/blog-images/image-prompts/Instagram Pop Out Effect.jpg",
+    prompts: [
+      "NanoBanana Prompt: A photorealistic fashion upper body shot of [Character Description and expression] wearing [Detailed Outfit Description]. The subject is framed inside a central white Instagram-style post border.\n\nComposition & Spacing: The white frame is perfectly centered in the middle of the image, leaving balanced empty [Soft Background Color matching the outfit] space above and below the frame to match the theme.\n\nFrame Details: The top, left, and right white borders are very thin. The bottom white section is thicker to include UI elements. The bottom section features a red heart icon, comment bubble, share icon, and bookmark icon.\n\nText Details: Clearly visible text on the bottom panel: \"[Number] likes\", username \"[Username]\", caption \"[Caption text]... more\", and below that, \"View all comments\".\n\n3D Pop-Out Effect & Hand Pose:\n[CHOOSE ONE OF THE FOLLOWING ACTIONS OR DESCRIBE YOUR OWN ACTION:]\n 1. (Grip): head and arms are physically popping out OVER the top and side thin borders. hands are realistically gripping the outer edges of the thin side borders, appearing to hold the frame firmly.\n2. (Resting): She is looking directly at the camera with a gentle smile. Her head and shoulders physically pop out OVER the top thin white border. Crucially, her hands are realistically resting, appearing to lean casually on the frame edge.\n3. (Dynamic Frame): Her upper body and head remain secure WITHIN the boundaries of the white frame. However, both of her arms are fully extended outward dynamically, breaking past the thin borders up to her elbows, reaching straight toward the camera lens.\n\nSubject Dimensionality & Texture: The subject must look like a solid, three-dimensional figure, not flat. Emphasize the detailed texture, the contours of the face, and realistic hair details.\n\nLighting & Shadows: Professional studio lighting creating soft, realistic drop shadows cast by the physical frame."
+    ]
+  },
+  {
     title: "Studio-quality AI Photo Editing Prompts",
     category: "Photography & Image Enhancement",
     image: "/blog-images/image-prompts/Studio-quality AI Photo Editing Prompts.jpeg",

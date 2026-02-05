@@ -216,5 +216,27 @@ Use clear section headers
 Be concise but specific
 Avoid generic career advice
 Optimize for resume tailoring and interview prep`
+  },
+  {
+    title: "Improve Clarity and Readability",
+    category: "Writing & Editing",
+    icon: "✍️",
+    context: "Editing & Refinement",
+    tools: ["ChatGPT", "Claude", "Gemini"],
+    image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80",
+    prompt: `You are an expert editor specializing in clear, concise, and easy-to-read writing.
+
+Your task is to edit the text below to maximize clarity, logical flow, and readability while preserving the original meaning and intent.
+
+Guidelines:
+Remove unnecessary words, filler, and repetition
+Tighten sentences without oversimplifying ideas
+Improve logical flow and transitions between sentences
+Break up long or complex sentences where needed
+Replace vague or confusing phrasing with clear, concrete language
+Maintain the original tone and voice
+Do not add new ideas or opinions
+
+[paste text here]`
   }
 ];
