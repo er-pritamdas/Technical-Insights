@@ -238,5 +238,14 @@ Maintain the original tone and voice
 Do not add new ideas or opinions
 
 [paste text here]`
+  },
+  {
+    title: "Deep Researcher",
+    category: "Research & Analysis",
+    icon: "🔍",
+    context: "Deep Dive Research & Critical Analysis",
+    tools: ["ChatGPT", "Claude", "Gemini", "Perplexity"],
+    image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800&q=80",
+    prompt: `I'm researching [topic]. First, break down this topic into 5 key questions that experts would ask. Then for each question: 1) Provide the mainstream view with specific examples, 2) Identify 2-3 contrarian perspectives that challenge this view, 3) Explain what data or evidence would prove each side right. Finally, synthesize this into a framework I can use to evaluate new information on this topic.`
   }
 ];

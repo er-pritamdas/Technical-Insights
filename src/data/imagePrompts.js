@@ -138,5 +138,13 @@ export const imagePromptsData = [
       "**How Interest Rates Work (Logic + Math):** The whiteboard presentation demonstrates compound interest operations through formula presentation and arrow connections and basic chart display and an illustrative calculation example.",
       "**Fractions Made Easy (Visual Reasoning):** A whiteboard-style infographic should explain fraction addition with different denominators through visual representations of shapes and grids and handwritten notes."
     ]
+  },
+  {
+    title: "NanoBanana Prompt - Tilt-shift 3D Diorama",
+    category: "Photography & Image Enhancement",
+    image: "/blog-images/image-prompts/life-in-a-diorama.jpg",
+    prompts: [
+      "NanoBanana Prompt:Tilt-shift 3D diorama in a 4:5 aspect ratio, featuring [main subject or location] during [time of day / lighting mood]. Miniature human figures interact naturally with the environment, adding a sense of scale and life. Subtle environmental motion elements (e.g., drifting particles, light movement, foliage) enhance realism. Soft ambient lighting and atmospheric depth create a cinematic, detailed, and immersive miniature world."
+    ]
   }
 ];
