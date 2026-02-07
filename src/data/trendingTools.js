@@ -131,6 +131,23 @@ export const trendingToolsData = [
         url: "https://labs.google.com/pomelli/about/",
         description: "Generate on-brand marketing assets. Import brand, tweak DNA, describe campaign (e.g., 'Launch an AI assistant'), and export animations.",
         image: "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=800&q=80"
+      },
+      {
+        name: "GenStore AI",
+        url: "https://www.genstore.ai/",
+        description: "Build a brand, dropship products, and automate marketing with AI agents.",
+        image: "/blog-images/AI-Tools/genstore-ai.png"
+      }
+    ]
+  },
+  {
+    category: "Health & Wellness",
+    tools: [
+      {
+        name: "Lotus Health AI",
+        url: "https://lotus.ai/",
+        description: "AI-powered primary care practice that sees patients for free, facilitating diagnoses, prescriptions, and referrals with physician oversight.",
+        image: "/blog-images/AI-Tools/lotus-health-ai.png"
       }
     ]
   }
