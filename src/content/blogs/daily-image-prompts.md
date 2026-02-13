@@ -117,6 +117,35 @@ Lighting & Shadows: Professional studio lighting creating soft, realistic drop s
 
 </details>
 
+### \ud83c\udfac Create Talking Head Videos with AI
+
+![Create Talking Head Videos with AI](/blog-images/image-prompts/talking-head-video.jpg)
+
+<details>
+<summary>Click to view prompt</summary>
+
+```markdown
+How to create your own talking head videos with AI
+
+Go to Gemini, upload your photo, and use the prompt below to create a professional headshot.
+
+Sample Prompt: Use the attached selfie to create a high-resolution professional headshot that keeps my facial features exactly the same. Add studio lighting, a soft neutral background, and formal professional attire suitable for a confident, approachable LinkedIn profile.
+
+Then go to Wan AI , sign up, and click New Project.
+
+Change media type from Video -> Avatar.
+
+Upload your headshot.
+
+Record 10-15 seconds of clear audio (or type your script and choose a voice).
+
+Click Generate to create your talking avatar.
+
+Add more short clips if needed, then click Export to download your final video.
+```
+
+</details>
+
 ## 🎨 Design, Branding & UI
 
 ### 🎨 Brand Visual Storyboard

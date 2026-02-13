@@ -74,9 +74,11 @@ const AIPromptCards = () => {
 
                         {/* Content */}
                         <div className="relative h-full flex flex-col justify-end p-6 z-10">
-                            <div className="absolute top-4 left-4 text-3xl">
-                                {item.icon}
-                            </div>
+                            {item.icon && (
+                                <div className="absolute top-4 left-4 text-3xl">
+                                    {item.icon}
+                                </div>
+                            )}
                             
                             <div className="transform transition-all duration-300 group-hover:-translate-y-2">
                                 <h3 className="text-xl font-bold text-white mb-2 group-hover:text-cyan-400 transition-colors">
@@ -122,7 +124,7 @@ const AIPromptCards = () => {
                             {/* Header */}
                             <div className="p-6 border-b border-slate-800 flex items-start justify-between bg-slate-900/50">
                                 <div className="flex items-start gap-4">
-                                    <div className="text-4xl">{selectedPrompt.icon}</div>
+                                    {selectedPrompt.icon && <div className="text-4xl">{selectedPrompt.icon}</div>}
                                     <div>
                                         <h2 className="text-2xl font-bold text-white mb-1">{selectedPrompt.title}</h2>
                                         <p className="text-slate-400">{selectedPrompt.context}</p>

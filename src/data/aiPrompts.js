@@ -2,7 +2,7 @@ export const aiPromptsData = [
   {
     title: "Learn anything faster",
     category: "Learning & Education",
-    icon: "🚀",
+
     context: "Accelerated Learning & Study Planning",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&q=80",
@@ -66,7 +66,7 @@ Step 1: Knowledge Assessment
   {
     title: "The Reverse Brief Prompt",
     category: "Thinking & Strategy",
-    icon: "📝",
+
     context: "Strategic Problem Definition & Clarity",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
@@ -100,7 +100,7 @@ Do not suggest solutions, tactics, or examples until all 5 questions are answere
   {
     title: "Build a Strong Company Culture",
     category: "Business & Management",
-    icon: "🏢",
+
     context: "Organizational Development & HR",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
@@ -127,7 +127,7 @@ Focus on practical steps, examples, and systems that can scale as the company gr
   {
     title: "Read long articles faster",
     category: "Learning & Education",
-    icon: "📖",
+
     context: "Reading Assistant & Summarization",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
@@ -154,7 +154,7 @@ Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual element
   {
     title: "High-End Consulting Slide Generation",
     category: "Business & Productivity",
-    icon: "📊",
+
     context: "Analyze Global EV market",
     tools: ["Kimi AI"],
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
@@ -179,7 +179,7 @@ Visual Style:
   {
     title: "Job Match Decoder",
     category: "Career & Growth",
-    icon: "👔",
+
     context: "Career & Interview Prep",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&q=80",
@@ -220,7 +220,7 @@ Optimize for resume tailoring and interview prep`
   {
     title: "Improve Clarity and Readability",
     category: "Writing & Editing",
-    icon: "✍️",
+
     context: "Editing & Refinement",
     tools: ["ChatGPT", "Claude", "Gemini"],
     image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80",
@@ -242,10 +242,54 @@ Do not add new ideas or opinions
   {
     title: "Deep Researcher",
     category: "Research & Analysis",
-    icon: "🔍",
+
     context: "Deep Dive Research & Critical Analysis",
     tools: ["ChatGPT", "Claude", "Gemini", "Perplexity"],
     image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800&q=80",
     prompt: `I'm researching [topic]. First, break down this topic into 5 key questions that experts would ask. Then for each question: 1) Provide the mainstream view with specific examples, 2) Identify 2-3 contrarian perspectives that challenge this view, 3) Explain what data or evidence would prove each side right. Finally, synthesize this into a framework I can use to evaluate new information on this topic.`
+  },
+  {
+    title: "30-Day Goal Execution Prompt",
+    category: "Productivity & Strategy",
+
+    context: "Actionable Goal Planning & Accountability",
+    tools: ["ChatGPT", "Claude", "Gemini"],
+    image: "/blog-images/ai-prompts/goal-execution.jpg",
+    prompt: `Act as a high-performance strategist and execution coach.
+My goal: {Insert your goal}
+Create a realistic but challenging 30-day action plan.
+
+Structure it like this:
+
+1. Define Success
+Rewrite the goal clearly and measurably.
+Define what success looks like after 30 days.
+List 3 key metrics to track.
+
+2. Weekly Plan (4 Weeks)
+Break it into:
+Week 1: Foundation
+Week 2: Momentum
+Week 3: Stretch
+Week 4: Results
+For each week include:
+Clear objective
+Specific actions
+Milestone by end of week
+Common mistakes to avoid
+
+3. Daily Execution
+Create a simple daily structure:
+1 main priority task
+1 growth/discomfort task
+1 habit to maintain
+1 reflection question
+
+4. Accountability
+Weekly review format
+Simple scorecard
+What to do if I fall behind
+
+Be direct and practical. No vague advice. Give concrete actions only.`
   }
 ];

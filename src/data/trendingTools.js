@@ -84,12 +84,24 @@ export const trendingToolsData = [
         url: "https://project-genie.net/",
         description: "Create photorealistic, interactive 3D worlds from text.",
         image: "https://images.unsplash.com/photo-1614728853913-a9d554a9918a?w=800&q=80"
+      },
+      {
+        name: "WhiskAI",
+        url: "https://www.whisk-ai.co/",
+        description: "Blend subject, scene, and style images to create 4K artwork with AI.",
+        image: "/blog-images/AI-Tools/WhiskAI.png"
       }
     ]
   },
   {
     category: "Business & Productivity",
     tools: [
+      {
+        name: "Dokie",
+        url: "https://dokie.ai/",
+        description: "Create smart professional slides in minutes with AI.",
+        image: "/blog-images/AI-Tools/dokie.png"
+      },
       {
         name: "Interactpitch",
         url: "https://interactpitch.ai/",

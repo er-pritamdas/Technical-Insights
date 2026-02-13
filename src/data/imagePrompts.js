@@ -146,5 +146,13 @@ export const imagePromptsData = [
     prompts: [
       "NanoBanana Prompt:Tilt-shift 3D diorama in a 4:5 aspect ratio, featuring [main subject or location] during [time of day / lighting mood]. Miniature human figures interact naturally with the environment, adding a sense of scale and life. Subtle environmental motion elements (e.g., drifting particles, light movement, foliage) enhance realism. Soft ambient lighting and atmospheric depth create a cinematic, detailed, and immersive miniature world."
     ]
+  },
+  {
+    title: "Create Talking Head Videos with AI",
+    category: "Photography & Image Enhancement",
+    image: "/blog-images/image-prompts/talking-head-video.jpg",
+    prompts: [
+      "How to create your own talking head videos with AI\n\nGo to Gemini, upload your photo, and use the prompt below to create a professional headshot.\n\nSample Prompt: Use the attached selfie to create a high-resolution professional headshot that keeps my facial features exactly the same. Add studio lighting, a soft neutral background, and formal professional attire suitable for a confident, approachable LinkedIn profile.\n\nThen go to Wan AI , sign up, and click New Project.\n\nChange media type from Video → Avatar.\n\nUpload your headshot.\n\nRecord 10–15 seconds of clear audio (or type your script and choose a voice).\n\nClick Generate to create your talking avatar.\n\nAdd more short clips if needed, then click Export to download your final video."
+    ]
   }
 ];

@@ -4,7 +4,7 @@ Welcome to my daily collection of AI prompts! Here I document useful prompts for
 
 ---
 
-### 🚀 Learn anything faster
+### Learn anything faster
 
 **Context:** Accelerated Learning & Study Planning
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -75,7 +75,7 @@ Step 1: Knowledge Assessment
 
 ---
 
-### 📝 The Reverse Brief Prompt
+### The Reverse Brief Prompt
 
 **Context:** Strategic Problem Definition & Clarity
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -116,7 +116,7 @@ Do not suggest solutions, tactics, or examples until all 5 questions are answere
 
 ---
 
-### 🏢 Build a Strong Company Culture
+### Build a Strong Company Culture
 
 **Context:** Organizational Development & HR
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -150,7 +150,7 @@ Focus on practical steps, examples, and systems that can scale as the company gr
 
 ---
 
-### 📖 Read long articles faster
+### Read long articles faster
 
 **Context:** Reading Assistant & Summarization
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -184,7 +184,7 @@ Visual Elements: Insert tables, charts, diagrams, SVGs, and other visual element
 
 ---
 
-### 📊 High-End Consulting Slide Generation
+### High-End Consulting Slide Generation
 
 **Context:** Analyze Global EV market
 **:** <a href="https://www.kimi.com/en/slides" target="_blank"><img src="/AI-Icons/kimi.png" alt="Kimi AI" title="Kimi AI" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -216,7 +216,7 @@ Visual Style:
 
 ---
 
-### 👔 Job Match Decoder
+### Job Match Decoder
 
 **Context:** Career & Interview Prep
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
@@ -264,11 +264,64 @@ Optimize for resume tailoring and interview prep
 
 ---
 
+### 30-Day Goal Execution Prompt
+
+**Context:** Actionable Goal Planning & Accountability
+**:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
+
+![30-Day Goal Execution Prompt](/blog-images/ai-prompts/goal-execution.jpg)
+
+<details>
+<summary>Click to view prompt</summary>
+
+```markdown
+Act as a high-performance strategist and execution coach.
+My goal: {Insert your goal}
+Create a realistic but challenging 30-day action plan.
+
+Structure it like this:
+
+1. Define Success
+   Rewrite the goal clearly and measurably.
+   Define what success looks like after 30 days.
+   List 3 key metrics to track.
+
+2. Weekly Plan (4 Weeks)
+   Break it into:
+   Week 1: Foundation
+   Week 2: Momentum
+   Week 3: Stretch
+   Week 4: Results
+   For each week include:
+   Clear objective
+   Specific actions
+   Milestone by end of week
+   Common mistakes to avoid
+
+3. Daily Execution
+   Create a simple daily structure:
+   1 main priority task
+   1 growth/discomfort task
+   1 habit to maintain
+   1 reflection question
+
+4. Accountability
+   Weekly review format
+   Simple scorecard
+   What to do if I fall behind
+
+Be direct and practical. No vague advice. Give concrete actions only.
+```
+
 </details>
 
 ---
 
-### ✍️ Improve Clarity and Readability
+</details>
+
+---
+
+### Improve Clarity and Readability
 
 **Context:** Editing & Refinement
 **:** <a href="https://chat.openai.com" target="_blank"><img src="/AI-Icons/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://claude.ai" target="_blank"><img src="/AI-Icons/claude.png" alt="Claude" title="Claude" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="/AI-Icons/gemini.png" alt="Gemini" title="Gemini" width="20" height="20" style="display:inline; margin:0 5px; vertical-align:middle;"/></a>
